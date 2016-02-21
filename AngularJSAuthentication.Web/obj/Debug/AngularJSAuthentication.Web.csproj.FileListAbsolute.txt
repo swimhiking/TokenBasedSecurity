@@ -1,0 +1,34 @@
+c:\users\arcgis\documents\visual studio 2013\Projects\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.dll.config
+c:\users\arcgis\documents\visual studio 2013\Projects\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.dll
+c:\users\arcgis\documents\visual studio 2013\Projects\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.pdb
+c:\users\arcgis\documents\visual studio 2013\Projects\AngularJSAuthentication.API\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.csprojResolveAssemblyReference.cache
+c:\users\arcgis\documents\visual studio 2013\Projects\AngularJSAuthentication.API\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.dll
+c:\users\arcgis\documents\visual studio 2013\Projects\AngularJSAuthentication.API\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.pdb
+C:\Users\arcgis\Documents\Visual Studio 2013\Projects\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Microsoft.Owin.dll
+C:\Users\arcgis\Documents\Visual Studio 2013\Projects\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\arcgis\Documents\Visual Studio 2013\Projects\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\arcgis\Documents\Visual Studio 2013\Projects\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\arcgis\Documents\Visual Studio 2013\Projects\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Newtonsoft.Json.dll
+C:\Users\arcgis\Documents\Visual Studio 2013\Projects\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Owin.dll
+C:\Users\arcgis\Documents\Visual Studio 2013\Projects\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Microsoft.Owin.xml
+C:\Users\arcgis\Documents\Visual Studio 2013\Projects\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\arcgis\Documents\Visual Studio 2013\Projects\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\arcgis\Documents\Visual Studio 2013\Projects\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\arcgis\Documents\Visual Studio 2013\Projects\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Newtonsoft.Json.xml
+C:\Users\arcgis\Desktop\mvc\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.dll.config
+C:\Users\arcgis\Desktop\mvc\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.dll
+C:\Users\arcgis\Desktop\mvc\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.pdb
+C:\Users\arcgis\Desktop\mvc\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Microsoft.Owin.dll
+C:\Users\arcgis\Desktop\mvc\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\arcgis\Desktop\mvc\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\arcgis\Desktop\mvc\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\arcgis\Desktop\mvc\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Newtonsoft.Json.dll
+C:\Users\arcgis\Desktop\mvc\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Owin.dll
+C:\Users\arcgis\Desktop\mvc\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Microsoft.Owin.xml
+C:\Users\arcgis\Desktop\mvc\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\arcgis\Desktop\mvc\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\arcgis\Desktop\mvc\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\arcgis\Desktop\mvc\AngularJSAuthentication.API\AngularJSAuthentication.Web\bin\Newtonsoft.Json.xml
+C:\Users\arcgis\Desktop\mvc\AngularJSAuthentication.API\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.csprojResolveAssemblyReference.cache
+C:\Users\arcgis\Desktop\mvc\AngularJSAuthentication.API\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.dll
+C:\Users\arcgis\Desktop\mvc\AngularJSAuthentication.API\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.pdb

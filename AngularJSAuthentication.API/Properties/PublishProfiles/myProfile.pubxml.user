@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Server\WebApiSPA</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/AngularJSAuthentication.API.dll">
+      <publishTime>02/20/2016 19:14:16</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>02/19/2016 21:44:39</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>02/19/2016 21:44:39</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>02/19/2016 21:44:11</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>02/19/2016 21:44:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>02/19/2016 21:44:11</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Cors.dll">
+      <publishTime>02/19/2016 22:38:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>02/19/2016 21:37:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>02/19/2016 21:37:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>02/19/2016 22:12:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>02/19/2016 22:12:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>02/20/2016 14:35:19</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>02/20/2016 14:35:43</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>02/19/2016 22:13:37</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>02/19/2016 21:35:57</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>02/19/2016 21:36:35</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>02/19/2016 21:36:35</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>02/19/2016 22:38:28</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>02/19/2016 21:36:35</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Owin.dll">
+      <publishTime>02/19/2016 21:36:36</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>02/19/2016 21:35:58</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>02/20/2016 14:35:43</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/20/2016 19:15:02</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
